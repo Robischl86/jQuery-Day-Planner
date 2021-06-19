@@ -10,7 +10,7 @@ This project was created by Robischl86
  7. [Tests](#tests) 
  8. [Questions](#questions) 
 ## Description
-This is a basic jQuery day planner that uses Moment.js to schedule today's events.
+This is a basic jQuery day planner that uses Moment.js to schedule today's events. [link](https://robischl86.github.io/jQuery-Day-Planner/)
 ## Screenshot
 ![Screenshot](screenshot.png?raw=true) 
 ## Installation
